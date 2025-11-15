@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Clement 👋
 
-<!--
-**clementgyimah/clementgyimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and Lead Researcher focused on intelligent systems, IoT automation, and AI-driven applications.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 🧪 Research & Projects
+- 🔬 **Smardroponics** – IoT-based automated hydroponics system  
+- 📱 **Mobile Automation Tools**  
+- 🤖 **AI-based monitoring & decision systems**
+
+## 🌐 Links
+- 🌍 Portfolio: https://portfolio-e21fb.web.app  
+- 🧪 ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX  
+- 💻 GitHub: https://github.com/YOUR_USERNAME
