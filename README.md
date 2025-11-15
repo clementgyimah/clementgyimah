@@ -47,31 +47,31 @@
 
 ### 🔹 **LivelyCura Platform**  
 A healthcare platform improving performance and scalability using Node.js, React, React Native (Expo), DigitalOcean, Mantine, and MongoDB.  
-**Live Demo | Google Play Store | Apple App Store**
+**[Live Demo](https://livelycura.com) | [Google Play Store](https://play.google.com/store/apps/details?id=com.livelycura.customer) | [Apple App Store](https://apps.apple.com/us/app/livelycura/id6740414619)**
 
 ---
 
 ### 🔹 **CTnews**  
 A mobile news feed application built with React Native, Node.js/Express.js, Firebase, MongoDB, and AWS.  
-**Google Play Store | GitHub**
+**[Google Play Store](https://play.google.com/store/apps/details?id=com.clemotec.ctnews) | [GitHub](https://github.com/clementgyimah/ctnews.git)**
 
 ---
 
 ### 🔹 **Cotrack**  
 An event monitoring system for one-time and long-term events using Electron.js, React, NeDB, and MongoDB.  
-**Live Demo | GitHub**
+**[Live Demo](https://cotrack-d5fc7.web.app) | [GitHub](https://github.com/clementgyimah/cotrack-mini.git)**
 
 ---
 
 ### 🔹 **Badgant**  
 A freelance platform for managing contracts and appointments using React, Node.js, Google Cloud, and PostgreSQL.  
-**Website**
+**[Website](https://badgant-80f41.web.app)**
 
 ---
 
 ### 🔹 **Smardroponics — IoT + AI Smart Hydroponic System**  
 Automates nutrient control and environmental monitoring through IoT sensors and a mobile app, improving accessibility and efficiency of hydroponic farming.  
-**[DOI](https://doi.org/10.36227/techrxiv.176288299.94906089/v1) | YouTube | GitHub**
+**[DOI](https://doi.org/10.36227/techrxiv.176288299.94906089/v1) | [YouTube](https://www.youtube.com/watch?v=6fUO9Y8vQeg) | [GitHub](https://github.com/clementgyimah/smardroponics-hardware)**
 
 ---
 
