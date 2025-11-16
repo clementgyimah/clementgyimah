@@ -1,12 +1,15 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Clement 👋</h1>
 <h3 align="center">Software Engineer | Lead Researcher in AI & Smart Systems</h3>
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Smart+Systems+Researcher;Full-Stack+%26+Mobile+Developer;Building+Intelligent+Systems" />
   </a>
+</p> -->
+<p align="center">
+  <img src="https://github.com/clementgyimah/clementgyimah/blob/main/assets/wave.svg" width="100%" />
 </p>
+
 
 
 <p align="center">
