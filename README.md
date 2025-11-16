@@ -6,9 +6,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Smart+Systems+Researcher;Full-Stack+%26+Mobile+Developer;Building+Intelligent+Systems" />
   </a>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/gif/developer.gif" width="300" />
 </p>
+
 
 <p align="center">
   I build intelligent, dependable systems that combine software engineering, automation, and AI-driven decision support.  
