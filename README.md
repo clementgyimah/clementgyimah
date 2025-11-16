@@ -3,6 +3,13 @@
 <h3 align="center">Software Engineer | Lead Researcher in AI & Smart Systems</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Smart+Systems+Researcher;Full-Stack+%26+Mobile+Developer;Building+Intelligent+Systems" />
+  </a>
+</p>
+
+
+<p align="center">
   I build intelligent, dependable systems that combine software engineering, automation, and AI-driven decision support.  
   My work spans IoT, mobile development, cloud services, and research on smart systems that bridge technology with real-world impact.
 </p>
