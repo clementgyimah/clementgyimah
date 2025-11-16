@@ -1,14 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Clement 👋</h1>
 <h3 align="center">Software Engineer | Lead Researcher in AI & Smart Systems</h3>
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Smart+Systems+Researcher;Full-Stack+%26+Mobile+Developer;Building+Intelligent+Systems" />
-  </a>
-</p> -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p> -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/clementgyimah/clementgyimah/main/assets/animations/tech.gif" style="max-width: 100%; width: 600px;" />
 </p>
