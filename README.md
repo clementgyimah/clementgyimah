@@ -10,9 +10,8 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p> -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/gif/developer.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 <p align="center">
   I build intelligent, dependable systems that combine software engineering, automation, and AI-driven decision support.  
